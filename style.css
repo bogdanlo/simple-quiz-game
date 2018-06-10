@@ -1,0 +1,52 @@
+html {
+  font-family: sans-serif;
+}
+
+body {
+    background-color: darkslategrey;
+    color: whitesmoke;
+}
+
+h1 {
+    text-align: center;
+}
+
+button {
+    font-size: 25px;
+    background-color: cadetblue;
+    font-weight: bold;
+    border-radius: 12px;
+    border-color: white;
+    
+}
+
+h2 {
+    text-align: center;
+}
+
+
+#centered {
+    text-align: center;
+}
+
+.question {
+    font-size: 20px;
+    margin-top: 50px;
+    font-weight: bold;
+    font-style: oblique;
+}
+
+#showQuestion {
+    text-align: center;
+}
+
+.answDiv {
+    font-size: 18px;
+    padding: 10px;
+}
+
+#scoreDiv {
+    font-size: 20px;
+    text-align: center;
+    padding-bottom: 10px;
+}

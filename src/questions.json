@@ -1,0 +1,134 @@
+{
+  "questions": [
+    {
+      "question": "1. Which number is the answer to the Universe?",
+      "answers": [
+        "a. 40",
+        "b. 30",
+        "c. 52",
+        "d. 42"
+      ],
+      "correct": 3
+      },
+      {
+        "question": "2. What is the name of the main elf character in LOTR?",
+        "answers": [
+          "a. Gimly",
+          "b. Aragor",
+          "c. Legolas",
+          "d. Smeagle"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "3. Who is the first man to climb Everest?",
+        "answers": [
+          "a. Edmund Hillary",
+          "b. Tommy Heinrich",
+          "c. Hristo Prodanov",
+          "d. Earl Denman"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "4. What year were held the first Modern Olimpic games?",
+        "answers": [
+            "a. 1643",
+            "b. 1949",
+            "c. 1350",
+            "d. 1896"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "5. How high is the tallest building in the world? (2018)",
+        "answers": [
+            "a. 759 M.",
+            "b. 828 M.",
+            "c. 632 M.",
+            "d. 900 M."
+        ],
+        "correct": 1
+      },
+      {
+        "question": "6. Point out the three car brands, which are entirely Asian-made?",
+        "answers": [
+            "a. Lexus, Nissan, Ford",
+            "b. Birkin, Laraki, Kiira",
+            "c. Denza, Honda, Mazda",
+            "d. Abarth, Mitsubishi, Everus"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "7. Who invented the bycicle in its first two-wheel form?",
+        "answers": [
+            "a. Giovanni Fontana",
+            "b. Karl von Drais",
+            "c. Pierre Michaux",
+            "d. Marius Olivier"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "8. How many people play the popular computer game League of Legends (LoL) all over the World?",
+        "answers": [
+            "a. 58 Million",
+            "b. 76 Million",
+            "c. 113 Million",
+            "d. 81 Million"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "9. What period (in years) did the Bulgarian monarch tsar Simeon I rule the country?",
+        "answers": [
+            "a. From 893 To 927 AD",
+            "b. From 897 To 941 AD",
+            "c. From 880 To 900 AD",
+            "d. From 887 To 917 AD"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "10. Can a Person jump over 8.5 meters long?",
+        "answers": [
+            "a. Yes and this already happened",
+            "b. No, no one cant",
+            "c. Yes but its never been recorded",
+            "d. No but they were pretty close"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "11. We know that the number PI has really a lot of numbers after the decimal point. We know that it starts with 3.1415. What is the next (5-th) number?",
+        "answers": [
+            "a. 4",
+            "b. 3",
+            "c. 7",
+            "d. 9"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "12. Where was StarBucks founded (in which city)?",
+        "answers": [
+            "a. Portland",
+            "b. Denver",
+            "c. Seattle",
+            "d. Baltimore"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "13. At what age did the oldest person in the world die?",
+        "answers": [
+            "a. 115",
+            "b. 120",
+            "c. 117",
+            "d. 122"
+        ],
+        "correct": 3
+      }
+  ]
+}
